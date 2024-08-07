@@ -1,6 +1,6 @@
 public class conditionals {
     public static void main(String[] args) {
-        int x = 70;
+        double x = 60;
         if (x < 100) {
             x = x + 50;
         }
